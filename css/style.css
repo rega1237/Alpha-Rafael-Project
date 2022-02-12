@@ -20,3 +20,19 @@ h1{
 #img-caption{
     padding: 15px 0;
 }
+
+
+#ul_timeline{
+    padding: 40px 30%;
+}
+
+li{
+    padding-bottom: 20px;
+    line-height: 20px;
+}
+
+.footer_phrase{
+    line-height: 25px;
+    font-style: italic;
+    padding: 0 30% 0 30%;
+}
