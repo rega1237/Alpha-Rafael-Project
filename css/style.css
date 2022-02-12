@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(223, 215, 215);
+}
+#title{
+    text-align: center;
+    padding: 40px 0;
+}
+h1{
+    padding-bottom: 20px;
+}
+#img-div{
+    background-color: #fff;
+    text-align: center;
+}
+#img-caption{
+    padding: 15px 0;
+}
